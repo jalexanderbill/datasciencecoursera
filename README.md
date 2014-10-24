@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data ScientistToolbox Coursera Project
+Repo created for the Data Scientist's Toolbox class on Coursera.org
